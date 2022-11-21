@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/temperature-gh-pages/static/css/main.a8c1114f.css",
+    "main.js": "/temperature-gh-pages/static/js/main.487515e8.js",
+    "index.html": "/temperature-gh-pages/index.html",
+    "main.a8c1114f.css.map": "/temperature-gh-pages/static/css/main.a8c1114f.css.map",
+    "main.487515e8.js.map": "/temperature-gh-pages/static/js/main.487515e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8c1114f.css",
+    "static/js/main.487515e8.js"
+  ]
+}
